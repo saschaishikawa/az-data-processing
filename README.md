@@ -20,7 +20,7 @@ File_Name                 Object_Code/Object_Name     RA          DEC          V
 ...
 ```
 
-* **wcstools** library from (http://tdc-www.harvard.edu/wcstools/). Note: we only need ```sky2xy``` to convert celestial coordinates to pixel coordinates. For example, to locate the object in the first line of ```faux_ephm.txt``` we run: ```sky2xy 01_12DEC02_N04066_0001_header.fits 12:15:03.90 +04:22:14.2```, where ```01_12DEC02_N04066_0001_header.fits``` is the FITs header (as a single line), followed by the RA/DEC values of the object. You get the pixel values relative the the large image: ```12:15:03.90 +04:22:14.2 J2000 -> 2739.350 2245.813```
+* **wcstools** library from (http://tdc-www.harvard.edu/software/wcstools/wcsprogsi.html). Note: we only need ```sky2xy``` to convert celestial coordinates to pixel coordinates. For example, to locate the object in the first line of ```faux_ephm.txt``` we run: ```sky2xy 01_12DEC02_N04066_0001_header.fits 12:15:03.90 +04:22:14.2```, where ```01_12DEC02_N04066_0001_header.fits``` is the FITs header (as a single line), followed by the RA/DEC values of the object. You get the pixel values relative the the large image: ```12:15:03.90 +04:22:14.2 J2000 -> 2739.350 2245.813```
 * **runme.rb** script demonstrating basic usage.
 
 
