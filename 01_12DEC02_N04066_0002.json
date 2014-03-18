@@ -1,0 +1,4149 @@
+{
+  "original_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/01_12DEC02_N04066_0002.arch.H", 
+  "file_header": {
+    "EXTEND": true, 
+    "SIMPLE": true, 
+    "CD2_2": 0.000695272009, 
+    "OBJECT": "N04066", 
+    "CCDSUM": "1 1", 
+    "GAIN": 2.6, 
+    "RA": "12:16:58.620", 
+    "MJD": 56263.527116611134, 
+    "WRA": "12:16:52.4", 
+    "OBSERVAT": "UA Bigelow Station", 
+    "EPOCH": 2000, 
+    "AIRMASS": 1.35, 
+    "CD2_1": -1.767573e-06, 
+    "STDVCHL0": 0.3346187, 
+    "STDVCHL1": 0.3565756, 
+    "ENVWIN": "", 
+    "NMINUS": 1, 
+    "CTYPE2": "DEC--TAN", 
+    "CTYPE1": "RA---TAN", 
+    "ZD": 42.2, 
+    "EXPTIME": 30.0, 
+    "CDELT1": -0.000695234604, 
+    "CDELT2": 0.00069527425, 
+    "NAXIS": 2, 
+    "DATE-OBS": "2012-12-02", 
+    "DEC": "+04:15:05.49", 
+    "TELTEMP": 44, 
+    "INSTRUME": "SI 600-277", 
+    "NCHANNEL": 2, 
+    "IRAFTYPE": "", 
+    "SURVEY": 4, 
+    "ENVDIR": "", 
+    "DEWTEMP": "", 
+    "NAXIS1": 4110, 
+    "NAXIS2": 4096, 
+    "VACUUM": 0.0, 
+    "FILTER": "NONE", 
+    "DETECTOR": "IMAGER LABS", 
+    "WEPOCH": 2000.0, 
+    "BITPIX": 16, 
+    "WCSTOL": 6.0, 
+    "BIASCHL0": 665, 
+    "BIASCHL1": 689, 
+    "WEQUINOX": 2000, 
+    "CO2_1": "=-7.69795473487056E-05", 
+    "CO2_2": "=-1.67834742791956E-06", 
+    "CO2_3": 0.000695272712012246, 
+    "CO2_4": 2.03050234108013e-11, 
+    "CO2_5": 4.50498114676224e-11, 
+    "CO2_6": 4.53197835397413e-12, 
+    "ENVPRE": "", 
+    "CD1_2": -1.767673e-06, 
+    "IMWCS": "WCSTools 3.8.1T, 14 December 2009, Doug Mink (dmink@cfa.harvard.edu", 
+    "CD1_1": -0.000695232371, 
+    "EQUINOX": 2000, 
+    "IMAGETYP": "OBJECT", 
+    "WCSSEP": 0.297, 
+    "PREFLASH": "", 
+    "ORIGIN": "CADDSV3.1", 
+    "CENTRA": 184.2446, 
+    "OBSERVER": "R.E.Hill", 
+    "WCSIMCAT": "/data0/node2/data/ucac3select.dat", 
+    "RDNOISE": 11.6, 
+    "TELFOCUS": -191, 
+    "WCSRFCAT": "ucac3", 
+    "CRVAL2": 4.251524637, 
+    "CRPIX1": 2055.5, 
+    "CRPIX2": 2048.5, 
+    "CRVAL1": 184.244248063, 
+    "TELESCOP": "CATALINA SCHMIDT 003", 
+    "ST": "10:01:50", 
+    "WCSMATCH": 734, 
+    "SEQNUM": 2, 
+    "TIME-OBS": "12:38:47.854", 
+    "IRAFBPX": "", 
+    "CO1_6": -3.5229599574701e-11, 
+    "CO1_5": "=-3.68876555318791E-12", 
+    "CO1_4": 1.11642991363117e-11, 
+    "CO1_3": "=-1.88106720240239E-06", 
+    "CO1_2": "=-0.000695241109958189", 
+    "CO1_1": "=-1.74017900668268E-06", 
+    "DATE": "2012-12-02T12:39:30", 
+    "ENVHUM": "", 
+    "HA": "-02:15:36", 
+    "CROTA2": 0.145671, 
+    "CROTA1": 0.145671, 
+    "CENTDEC": 4.2511, 
+    "WCSNREF": 825, 
+    "RADECSYS": "FK5", 
+    "CAMTEMP": -102.80000000000001, 
+    "WDEC": "+04:15:00.0", 
+    "DETNAME": "", 
+    "BZERO": 32768, 
+    "SECPIX1": 2.5028, 
+    "BSCALE": 1, 
+    "SECPIX2": 2.503
+  }, 
+  "processed_images": [
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-1-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-1-scaled.png", 
+      "center": {
+        "dec": 2.903077403420274, 
+        "ra": 185.58732610396814
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-2-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-2-scaled.png", 
+      "center": {
+        "dec": 3.0613673414197593, 
+        "ra": 185.58719861084788
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-3-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-3-scaled.png", 
+      "center": {
+        "dec": 3.2196754858126795, 
+        "ra": 185.58707106537616
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-4-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-4-scaled.png", 
+      "center": {
+        "dec": 3.3779994222584593, 
+        "ra": 185.5869434675207
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-5-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-5-scaled.png", 
+      "center": {
+        "dec": 3.5363367349701758, 
+        "ra": 185.5868158172493
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-6-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-6-scaled.png", 
+      "center": {
+        "dec": 3.694685006935465, 
+        "ra": 185.58668811452955
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-7-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-7-scaled.png", 
+      "center": {
+        "dec": 3.8530418201377397, 
+        "ra": 185.58656035932918
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-8-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-8-scaled.png", 
+      "center": {
+        "dec": 4.011404755777589, 
+        "ra": 185.58643255161587
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-9-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-9-scaled.png", 
+      "center": {
+        "dec": 4.169771394494416, 
+        "ra": 185.58630469135716
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-10-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-10-scaled.png", 
+      "center": {
+        "dec": 4.3281393165881425, 
+        "ra": 185.5861767785207
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-11-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-11-scaled.png", 
+      "center": {
+        "dec": 4.486506102241036, 
+        "ra": 185.586048813074
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-12-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-12-scaled.png", 
+      "center": {
+        "dec": 4.644869331739552, 
+        "ra": 185.58592079498464
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-13-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-13-scaled.png", 
+      "center": {
+        "dec": 4.80322658569614, 
+        "ra": 185.58579272422014
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-14-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-14-scaled.png", 
+      "center": {
+        "dec": 4.961575445270978, 
+        "ra": 185.58566460074792
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-15-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-15-scaled.png", 
+      "center": {
+        "dec": 5.11991349239361, 
+        "ra": 185.5855364245355
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-16-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-16-scaled.png", 
+      "center": {
+        "dec": 5.278238309984388, 
+        "ra": 185.58540819555031
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-17-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-17-scaled.png", 
+      "center": {
+        "dec": 5.436547482175623, 
+        "ra": 185.5852799137597
+      }, 
+      "crop": {
+        "xmin": 0, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 256
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-18-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-18-scaled.png", 
+      "center": {
+        "dec": 2.9028518490466357, 
+        "ra": 185.42884119239912
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-19-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-19-scaled.png", 
+      "center": {
+        "dec": 3.0611513623231477, 
+        "ra": 185.4286811581175
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-20-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-20-scaled.png", 
+      "center": {
+        "dec": 3.2194690852967334, 
+        "ra": 185.42852105812054
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-21-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-21-scaled.png", 
+      "center": {
+        "dec": 3.3778026031875283, 
+        "ra": 185.42836089236778
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-22-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-22-scaled.png", 
+      "center": {
+        "dec": 3.536149499768873, 
+        "ra": 185.42820066081867
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-23-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-23-scaled.png", 
+      "center": {
+        "dec": 3.694507357588288, 
+        "ra": 185.4280403634327
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-24-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-24-scaled.png", 
+      "center": {
+        "dec": 3.8528737581887893, 
+        "ra": 185.42788000016927
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-25-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-25-scaled.png", 
+      "center": {
+        "dec": 4.0112462823303225, 
+        "ra": 185.42771957098776
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-26-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-26-scaled.png", 
+      "center": {
+        "dec": 4.169622510211467, 
+        "ra": 185.4275590758475
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-27-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-27-scaled.png", 
+      "center": {
+        "dec": 4.328000021691224, 
+        "ra": 185.42739851470785
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-28-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-28-scaled.png", 
+      "center": {
+        "dec": 4.486376396510908, 
+        "ra": 185.42723788752807
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-29-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-29-scaled.png", 
+      "center": {
+        "dec": 4.6447492145160485, 
+        "ra": 185.42707719426738
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-30-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-30-scaled.png", 
+      "center": {
+        "dec": 4.803116055878266, 
+        "ra": 185.42691643488507
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-31-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-31-scaled.png", 
+      "center": {
+        "dec": 4.961474501317082, 
+        "ra": 185.42675560934023
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-32-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-32-scaled.png", 
+      "center": {
+        "dec": 5.119822132321629, 
+        "ra": 185.4265947175921
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-33-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-33-scaled.png", 
+      "center": {
+        "dec": 5.278156531372098, 
+        "ra": 185.42643375959975
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-34-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-34-scaled.png", 
+      "center": {
+        "dec": 5.436475282161076, 
+        "ra": 185.42627273532227
+      }, 
+      "crop": {
+        "xmin": 227.84, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 483.84000000000003
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-35-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-35-scaled.png", 
+      "center": {
+        "dec": 2.9026040928832364, 
+        "ra": 185.27033831442023
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-36-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-36-scaled.png", 
+      "center": {
+        "dec": 3.0609119680892247, 
+        "ra": 185.27014573404963
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-37-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-37-scaled.png", 
+      "center": {
+        "dec": 3.21923805587696, 
+        "ra": 185.26995307459833
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-38-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-38-scaled.png", 
+      "center": {
+        "dec": 3.3775799410824017, 
+        "ra": 185.26976033601755
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-39-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-39-scaled.png", 
+      "center": {
+        "dec": 3.5359352070943766, 
+        "ra": 185.2695675182586
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-40-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-40-scaled.png", 
+      "center": {
+        "dec": 3.69430143607556, 
+        "ra": 185.26937462127265
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-41-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-41-scaled.png", 
+      "center": {
+        "dec": 3.8526762091838003, 
+        "ra": 185.2691816450109
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-42-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-42-scaled.png", 
+      "center": {
+        "dec": 4.011057106793738, 
+        "ra": 185.2689885894244
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-43-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-43-scaled.png", 
+      "center": {
+        "dec": 4.169441708718458, 
+        "ra": 185.2687954544643
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-44-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-44-scaled.png", 
+      "center": {
+        "dec": 4.327827594431401, 
+        "ra": 185.26860224008163
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-45-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-45-scaled.png", 
+      "center": {
+        "dec": 4.486212343288268, 
+        "ra": 185.26840894622737
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-46-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-46-scaled.png", 
+      "center": {
+        "dec": 4.6445935347490135, 
+        "ra": 185.26821557285254
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-47-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-47-scaled.png", 
+      "center": {
+        "dec": 4.802968748599777, 
+        "ra": 185.268022119908
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-48-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-48-scaled.png", 
+      "center": {
+        "dec": 4.961335565174717, 
+        "ra": 185.26782858734464
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-49-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-49-scaled.png", 
+      "center": {
+        "dec": 5.11969156557783, 
+        "ra": 185.2676349751133
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-50-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-50-scaled.png", 
+      "center": {
+        "dec": 5.278034331904461, 
+        "ra": 185.26744128316483
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-51-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-51-scaled.png", 
+      "center": {
+        "dec": 5.436361447462613, 
+        "ra": 185.26724751144997
+      }, 
+      "crop": {
+        "xmin": 455.68, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 711.6800000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-52-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-52-scaled.png", 
+      "center": {
+        "dec": 2.902334133552326, 
+        "ra": 185.1118198933818
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-53-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-53-scaled.png", 
+      "center": {
+        "dec": 3.0606491567630236, 
+        "ra": 185.11159476348854
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-54-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-54-scaled.png", 
+      "center": {
+        "dec": 3.218982395020809, 
+        "ra": 185.11136954114886
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-55-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-55-scaled.png", 
+      "center": {
+        "dec": 3.37733143283269, 
+        "ra": 185.11114422630584
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-56-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-56-scaled.png", 
+      "center": {
+        "dec": 3.535693853258202, 
+        "ra": 185.11091881890246
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-57-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-57-scaled.png", 
+      "center": {
+        "dec": 3.6940672381304407, 
+        "ra": 185.1106933188817
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-58-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-58-scaled.png", 
+      "center": {
+        "dec": 3.8524491682774884, 
+        "ra": 185.1104677261864
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-59-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-59-scaled.png", 
+      "center": {
+        "dec": 4.010837223743977, 
+        "ra": 185.11024204075954
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-60-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-60-scaled.png", 
+      "center": {
+        "dec": 4.1692289840129035, 
+        "ra": 185.11001626254387
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-61-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-61-scaled.png", 
+      "center": {
+        "dec": 4.327622028227519, 
+        "ra": 185.10979039148214
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-62-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-62-scaled.png", 
+      "center": {
+        "dec": 4.486013935413325, 
+        "ra": 185.10956442751714
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-63-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-63-scaled.png", 
+      "center": {
+        "dec": 4.644402284700083, 
+        "ra": 185.1093383705915
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-64-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-64-scaled.png", 
+      "center": {
+        "dec": 4.802784655543827, 
+        "ra": 185.10911222064786
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-65-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-65-scaled.png", 
+      "center": {
+        "dec": 4.961158627948738, 
+        "ra": 185.1088859776288
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-66-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-66-scaled.png", 
+      "center": {
+        "dec": 5.119521782688993, 
+        "ra": 185.10865964147686
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-67-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-67-scaled.png", 
+      "center": {
+        "dec": 5.277871701530346, 
+        "ra": 185.10843321213454
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-68-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-68-scaled.png", 
+      "center": {
+        "dec": 5.4362059674514995, 
+        "ra": 185.10820668954426
+      }, 
+      "crop": {
+        "xmin": 683.52, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 939.5200000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-69-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-69-scaled.png", 
+      "center": {
+        "dec": 2.9020419712027934, 
+        "ra": 184.95328835406113
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-70-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-70-scaled.png", 
+      "center": {
+        "dec": 3.0603629279998312, 
+        "ra": 184.95303067270638
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-71-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-71-scaled.png", 
+      "center": {
+        "dec": 3.2187021018897006, 
+        "ra": 184.95277288554047
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-72-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-72-scaled.png", 
+      "center": {
+        "dec": 3.3770570771057202, 
+        "ra": 184.9525149924982
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-73-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-73-scaled.png", 
+      "center": {
+        "dec": 3.5354254364333677, 
+        "ra": 184.95225699351437
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-74-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-74-scaled.png", 
+      "center": {
+        "dec": 3.69380476143149, 
+        "ra": 184.9519988885237
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-75-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-75-scaled.png", 
+      "center": {
+        "dec": 3.8521926326537814, 
+        "ra": 184.95174067746078
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-76-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-76-scaled.png", 
+      "center": {
+        "dec": 4.0105866298702715, 
+        "ra": 184.9514823602603
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-77-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-77-scaled.png", 
+      "center": {
+        "dec": 4.168984332289265, 
+        "ra": 184.95122393685674
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-78-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-78-scaled.png", 
+      "center": {
+        "dec": 4.327383318779261, 
+        "ra": 184.9509654071847
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-79-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-79-scaled.png", 
+      "center": {
+        "dec": 4.4857811680909965, 
+        "ra": 184.95070677117857
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-80-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-80-scaled.png", 
+      "center": {
+        "dec": 4.644175459079468, 
+        "ra": 184.9504480287727
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-81-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-81-scaled.png", 
+      "center": {
+        "dec": 4.80256377092603, 
+        "ra": 184.95018917990154
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-82-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-82-scaled.png", 
+      "center": {
+        "dec": 4.960943683360261, 
+        "ra": 184.9499302244993
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-83-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-83-scaled.png", 
+      "center": {
+        "dec": 5.119312776881913, 
+        "ra": 184.9496711625002
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-84-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-84-scaled.png", 
+      "center": {
+        "dec": 5.277668632982451, 
+        "ra": 184.94941199383845
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-85-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-85-scaled.png", 
+      "center": {
+        "dec": 5.436008834366586, 
+        "ra": 184.94915271844818
+      }, 
+      "crop": {
+        "xmin": 911.36, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 1167.3600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-86-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-86-scaled.png", 
+      "center": {
+        "dec": 2.9017276075108036, 
+        "ra": 184.79474612244033
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-87-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-87-scaled.png", 
+      "center": {
+        "dec": 3.0600532830659932, 
+        "ra": 184.79445588918077
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-88-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-88-scaled.png", 
+      "center": {
+        "dec": 3.2183971773399676, 
+        "ra": 184.79416553674747
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-89-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-89-scaled.png", 
+      "center": {
+        "dec": 3.3767568743475223, 
+        "ra": 184.793875065067
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-90-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-90-scaled.png", 
+      "center": {
+        "dec": 3.5351299566554726, 
+        "ra": 184.79358447406588
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-91-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-91-scaled.png", 
+      "center": {
+        "dec": 3.6935140056037925, 
+        "ra": 184.79329376367062
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-92-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-92-scaled.png", 
+      "center": {
+        "dec": 3.8519066015270806, 
+        "ra": 184.7930029338076
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-93-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-93-scaled.png", 
+      "center": {
+        "dec": 4.010305323976263, 
+        "ra": 184.7927119844032
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-94-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-94-scaled.png", 
+      "center": {
+        "dec": 4.168707751940383, 
+        "ra": 184.79242091538373
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-95-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-95-scaled.png", 
+      "center": {
+        "dec": 4.327111464068662, 
+        "ra": 184.7921297266754
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-96-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-96-scaled.png", 
+      "center": {
+        "dec": 4.485514038892522, 
+        "ra": 184.7918384182044
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-97-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-97-scaled.png", 
+      "center": {
+        "dec": 4.64391305504766, 
+        "ra": 184.79154698989683
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-98-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-98-scaled.png", 
+      "center": {
+        "dec": 4.802306091496201, 
+        "ra": 184.79125544167877
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-99-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-99-scaled.png", 
+      "center": {
+        "dec": 4.960690727748555, 
+        "ra": 184.79096377347616
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-100-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-100-scaled.png", 
+      "center": {
+        "dec": 5.119064544085422, 
+        "ra": 184.790671985215
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-101-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-101-scaled.png", 
+      "center": {
+        "dec": 5.277425121779389, 
+        "ra": 184.79038007682112
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-102-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-102-scaled.png", 
+      "center": {
+        "dec": 5.435770043316461, 
+        "ra": 184.79008804822035
+      }, 
+      "crop": {
+        "xmin": 1139.2, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 1395.2
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-103-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-103-scaled.png", 
+      "center": {
+        "dec": 2.9013910456801217, 
+        "ra": 184.63619562548368
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-104-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-104-scaled.png", 
+      "center": {
+        "dec": 3.059720224839353, 
+        "ra": 184.635872841372
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-105-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-105-scaled.png", 
+      "center": {
+        "dec": 3.2180676239232473, 
+        "ra": 184.63554992472734
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-106-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-106-scaled.png", 
+      "center": {
+        "dec": 3.376430826783482, 
+        "ra": 184.63522687546808
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-107-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-107-scaled.png", 
+      "center": {
+        "dec": 3.5348074158234604, 
+        "ra": 184.6349036935125
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-108-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-108-scaled.png", 
+      "center": {
+        "dec": 3.693194972219667, 
+        "ra": 184.63458037877894
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-109-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-109-scaled.png", 
+      "center": {
+        "dec": 3.8515910761430985, 
+        "ra": 184.63425693118546
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-110-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-110-scaled.png", 
+      "center": {
+        "dec": 4.009993306980946, 
+        "ra": 184.6339333506502
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-111-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-111-scaled.png", 
+      "center": {
+        "dec": 4.168399243558516, 
+        "ra": 184.63360963709127
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-112-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-112-scaled.png", 
+      "center": {
+        "dec": 4.326806464361211, 
+        "ra": 184.63328579042656
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-113-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-113-scaled.png", 
+      "center": {
+        "dec": 4.485212547756636, 
+        "ra": 184.63296181057405
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-114-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-114-scaled.png", 
+      "center": {
+        "dec": 4.643615072216693, 
+        "ra": 184.63263769745151
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-115-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-115-scaled.png", 
+      "center": {
+        "dec": 4.80201161653974, 
+        "ra": 184.6323134509768
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-116-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-116-scaled.png", 
+      "center": {
+        "dec": 4.960399760072463, 
+        "ra": 184.63198907106752
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-117-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-117-scaled.png", 
+      "center": {
+        "dec": 5.118777082931944, 
+        "ra": 184.63166455764136
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-118-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-118-scaled.png", 
+      "center": {
+        "dec": 5.277141166227283, 
+        "ra": 184.6313399106159
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-119-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-119-scaled.png", 
+      "center": {
+        "dec": 5.435489592281064, 
+        "ra": 184.63101512990863
+      }, 
+      "crop": {
+        "xmin": 1367.04, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 1623.04
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-120-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-120-scaled.png", 
+      "center": {
+        "dec": 2.9010322904423425, 
+        "ra": 184.47763929091485
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-121-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-121-scaled.png", 
+      "center": {
+        "dec": 3.059363757809382, 
+        "ra": 184.47728395849987
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-122-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-122-scaled.png", 
+      "center": {
+        "dec": 3.217713445886891, 
+        "ra": 184.4769284801973
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-123-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-123-scaled.png", 
+      "center": {
+        "dec": 3.3760789384185763, 
+        "ra": 184.47657285591734
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-124-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-124-scaled.png", 
+      "center": {
+        "dec": 3.5344578176998995, 
+        "ra": 184.47621708557006
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-125-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-125-scaled.png", 
+      "center": {
+        "dec": 3.692847664799193, 
+        "ra": 184.47586116906547
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-126-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-126-scaled.png", 
+      "center": {
+        "dec": 3.8512460597793052, 
+        "ra": 184.47550510631353
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-127-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-127-scaled.png", 
+      "center": {
+        "dec": 4.009650581919199, 
+        "ra": 184.47514889722407
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-128-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-128-scaled.png", 
+      "center": {
+        "dec": 4.168058809935897, 
+        "ra": 184.47479254170696
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-129-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-129-scaled.png", 
+      "center": {
+        "dec": 4.326468322206515, 
+        "ra": 184.47443603967187
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-130-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-130-scaled.png", 
+      "center": {
+        "dec": 4.484876696990328, 
+        "ra": 184.47407939102843
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-131-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-131-scaled.png", 
+      "center": {
+        "dec": 4.643281512650949, 
+        "ra": 184.4737225956862
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-132-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-132-scaled.png", 
+      "center": {
+        "dec": 4.801680347878466, 
+        "ra": 184.4733656535548
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-133-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-133-scaled.png", 
+      "center": {
+        "dec": 4.960070781911324, 
+        "ra": 184.4730085645435
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-134-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-134-scaled.png", 
+      "center": {
+        "dec": 5.118450394758398, 
+        "ra": 184.4726513285617
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-135-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-135-scaled.png", 
+      "center": {
+        "dec": 5.276816767420742, 
+        "ra": 184.47229394551874
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-136-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-136-scaled.png", 
+      "center": {
+        "dec": 5.435167482112897, 
+        "ra": 184.47193641532374
+      }, 
+      "crop": {
+        "xmin": 1594.8799999999999, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 1850.8799999999999
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-137-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-137-scaled.png", 
+      "center": {
+        "dec": 2.900651348056542, 
+        "ra": 184.31907954699392
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-138-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-138-scaled.png", 
+      "center": {
+        "dec": 3.0589838880771145, 
+        "ra": 184.31869167032062
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-139-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-139-scaled.png", 
+      "center": {
+        "dec": 3.217334649173671, 
+        "ra": 184.31830363441102
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-140-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-140-scaled.png", 
+      "center": {
+        "dec": 3.3757012150373487, 
+        "ra": 184.31791543916702
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-141-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-141-scaled.png", 
+      "center": {
+        "dec": 3.534081167910943, 
+        "ra": 184.31752708449056
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-142-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-142-scaled.png", 
+      "center": {
+        "dec": 3.6924720888101614, 
+        "ra": 184.31713857028342
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-143-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-143-scaled.png", 
+      "center": {
+        "dec": 3.8508715577450525, 
+        "ra": 184.3167498964473
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-144-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-144-scaled.png", 
+      "center": {
+        "dec": 4.009277153941912, 
+        "ra": 184.31636106288386
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-145-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-145-scaled.png", 
+      "center": {
+        "dec": 4.167686456064941, 
+        "ra": 184.31597206949462
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-146-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-146-scaled.png", 
+      "center": {
+        "dec": 4.3260970424384775, 
+        "ra": 184.31558291618109
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-147-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-147-scaled.png", 
+      "center": {
+        "dec": 4.484506491269022, 
+        "ra": 184.31519360284463
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-148-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-148-scaled.png", 
+      "center": {
+        "dec": 4.642912380867419, 
+        "ra": 184.3148041293866
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-149-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-149-scaled.png", 
+      "center": {
+        "dec": 4.801312289870929, 
+        "ra": 184.31441449570818
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-150-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-150-scaled.png", 
+      "center": {
+        "dec": 4.959703797465298, 
+        "ra": 184.3140247017105
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-151-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-151-scaled.png", 
+      "center": {
+        "dec": 5.118084483606727, 
+        "ra": 184.3136347472947
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-152-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-152-scaled.png", 
+      "center": {
+        "dec": 5.2764519292434375, 
+        "ra": 184.31324463236174
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-153-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-153-scaled.png", 
+      "center": {
+        "dec": 5.434803716537431, 
+        "ra": 184.31285435681252
+      }, 
+      "crop": {
+        "xmin": 1822.7199999999998, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 2078.72
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-154-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-154-scaled.png", 
+      "center": {
+        "dec": 2.9002482263089573, 
+        "ra": 184.16051882229428
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-155-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-155-scaled.png", 
+      "center": {
+        "dec": 3.058580623354606, 
+        "ra": 184.1600984069036
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-156-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-156-scaled.png", 
+      "center": {
+        "dec": 3.216931241421487, 
+        "ra": 184.1596778189349
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-157-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-157-scaled.png", 
+      "center": {
+        "dec": 3.375297664203454, 
+        "ra": 184.15925705828198
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-158-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-158-scaled.png", 
+      "center": {
+        "dec": 3.5336774739460592, 
+        "ra": 184.15883612483853
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-159-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-159-scaled.png", 
+      "center": {
+        "dec": 3.692068251667726, 
+        "ra": 184.1584150184981
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-160-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-160-scaled.png", 
+      "center": {
+        "dec": 3.8504675773812904, 
+        "ra": 184.15799373915416
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-161-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-161-scaled.png", 
+      "center": {
+        "dec": 4.008873030315694, 
+        "ra": 184.1575722867002
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-162-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-162-scaled.png", 
+      "center": {
+        "dec": 4.167282189137958, 
+        "ra": 184.15715066102948
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-163-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-163-scaled.png", 
+      "center": {
+        "dec": 4.325692632175135, 
+        "ra": 184.1567288620353
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-164-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-164-scaled.png", 
+      "center": {
+        "dec": 4.484101937636483, 
+        "ra": 184.1563068896107
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-165-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-165-scaled.png", 
+      "center": {
+        "dec": 4.642507683835554, 
+        "ra": 184.15588474364884
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-166-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-166-scaled.png", 
+      "center": {
+        "dec": 4.800907449412379, 
+        "ra": 184.15546242404267
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-167-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-167-scaled.png", 
+      "center": {
+        "dec": 4.9592988135554394, 
+        "ra": 184.15503993068504
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-168-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-168-scaled.png", 
+      "center": {
+        "dec": 5.117679356223647, 
+        "ra": 184.1546172634688
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-169-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-169-scaled.png", 
+      "center": {
+        "dec": 5.276046658368011, 
+        "ra": 184.1541944222866
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-170-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-170-scaled.png", 
+      "center": {
+        "dec": 5.434398302153218, 
+        "ra": 184.1537714070311
+      }, 
+      "crop": {
+        "xmin": 2050.56, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 2306.56
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-171-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-171-scaled.png", 
+      "center": {
+        "dec": 2.8998229345120365, 
+        "ra": 184.0019595454794
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-172-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-172-scaled.png", 
+      "center": {
+        "dec": 3.05815397296417, 
+        "ra": 184.00150659840767
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-173-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-173-scaled.png", 
+      "center": {
+        "dec": 3.216503231962524, 
+        "ra": 184.0010534654246
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-174-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-174-scaled.png", 
+      "center": {
+        "dec": 3.3748682952589792, 
+        "ra": 184.00060014641574
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-175-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-175-scaled.png", 
+      "center": {
+        "dec": 3.5332467451572076, 
+        "ra": 184.00014664126655
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-176-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-176-scaled.png", 
+      "center": {
+        "dec": 3.6916361627337664, 
+        "ra": 183.99969294986246
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-177-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-177-scaled.png", 
+      "center": {
+        "dec": 3.85003412805971, 
+        "ra": 183.99923907208873
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-178-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-178-scaled.png", 
+      "center": {
+        "dec": 4.00843822042223, 
+        "ra": 183.99878500783058
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-179-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-179-scaled.png", 
+      "center": {
+        "dec": 4.166846018546537, 
+        "ra": 183.99833075697305
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-180-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-180-scaled.png", 
+      "center": {
+        "dec": 4.325255100817991, 
+        "ra": 183.99787631940123
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-181-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-181-scaled.png", 
+      "center": {
+        "dec": 4.483663045504103, 
+        "ra": 183.99742169499999
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-182-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-182-scaled.png", 
+      "center": {
+        "dec": 4.642067430976704, 
+        "ra": 183.99696688365412
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-183-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-183-scaled.png", 
+      "center": {
+        "dec": 4.800465835934067, 
+        "ra": 183.99651188524842
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-184-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-184-scaled.png", 
+      "center": {
+        "dec": 4.958855839622911, 
+        "ra": 183.99605669966746
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-185-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-185-scaled.png", 
+      "center": {
+        "dec": 5.117235022060326, 
+        "ra": 183.99560132679582
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-186-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-186-scaled.png", 
+      "center": {
+        "dec": 5.275600964255506, 
+        "ra": 183.99514576651788
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-187-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-187-scaled.png", 
+      "center": {
+        "dec": 5.433951248431242, 
+        "ra": 183.99469001871805
+      }, 
+      "crop": {
+        "xmin": 2278.4, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 2534.4
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-188-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-188-scaled.png", 
+      "center": {
+        "dec": 2.8993754835034142, 
+        "ra": 183.84340414507975
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-189-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-189-scaled.png", 
+      "center": {
+        "dec": 3.0577039478373202, 
+        "ra": 183.8429186748581
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-190-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-190-scaled.png", 
+      "center": {
+        "dec": 3.216050631822215, 
+        "ra": 183.8424330054013
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-191-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-191-scaled.png", 
+      "center": {
+        "dec": 3.3744131193233415, 
+        "ra": 183.84194713658667
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-192-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-192-scaled.png", 
+      "center": {
+        "dec": 3.5327889927577827, 
+        "ra": 183.8414610682915
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-193-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-193-scaled.png", 
+      "center": {
+        "dec": 3.691175833315748, 
+        "ra": 183.84097480039304
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-194-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-194-scaled.png", 
+      "center": {
+        "dec": 3.8495712211818756, 
+        "ra": 183.84048833276833
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-195-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-195-scaled.png", 
+      "center": {
+        "dec": 4.007972735757099, 
+        "ra": 183.8400016652944
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-196-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-196-scaled.png", 
+      "center": {
+        "dec": 4.166377955880386, 
+        "ra": 183.83951479784812
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-197-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-197-scaled.png", 
+      "center": {
+        "dec": 4.324784460050869, 
+        "ra": 183.83902773030633
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-198-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-198-scaled.png", 
+      "center": {
+        "dec": 4.483189826649848, 
+        "ra": 183.83854046254564
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-199-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-199-scaled.png", 
+      "center": {
+        "dec": 4.6415916341629435, 
+        "ra": 183.8380529944427
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-200-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-200-scaled.png", 
+      "center": {
+        "dec": 4.799987461402158, 
+        "ra": 183.837565325874
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-201-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-201-scaled.png", 
+      "center": {
+        "dec": 4.958374887727961, 
+        "ra": 183.8370774567159
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-202-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-202-scaled.png", 
+      "center": {
+        "dec": 5.116751493271078, 
+        "ra": 183.83658938684468
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-203-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-203-scaled.png", 
+      "center": {
+        "dec": 5.275114859154288, 
+        "ra": 183.83610111613652
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-204-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-204-scaled.png", 
+      "center": {
+        "dec": 5.433462567713824, 
+        "ra": 183.83561264446755
+      }, 
+      "crop": {
+        "xmin": 2506.2400000000002, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 2762.2400000000002
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-205-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-205-scaled.png", 
+      "center": {
+        "dec": 2.8989058856445995, 
+        "ra": 183.68485504926954
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-206-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-206-scaled.png", 
+      "center": {
+        "dec": 3.0572305605134216, 
+        "ra": 183.68433706592293
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-207-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-207-scaled.png", 
+      "center": {
+        "dec": 3.2155734537178513, 
+        "ra": 183.68381887002803
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-208-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-208-scaled.png", 
+      "center": {
+        "dec": 3.3739321492917984, 
+        "ra": 183.68330046145408
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-209-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-209-scaled.png", 
+      "center": {
+        "dec": 3.532304229821217, 
+        "ra": 183.68278184007016
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-210-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-210-scaled.png", 
+      "center": {
+        "dec": 3.6906872766652237, 
+        "ra": 183.6822630057453
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-211-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-211-scaled.png", 
+      "center": {
+        "dec": 3.8490788701775873, 
+        "ra": 183.68174395834848
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-212-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-212-scaled.png", 
+      "center": {
+        "dec": 4.007476589928395, 
+        "ra": 183.6812246977484
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-213-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-213-scaled.png", 
+      "center": {
+        "dec": 4.165878014925887, 
+        "ra": 183.68070522381382
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-214-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-214-scaled.png", 
+      "center": {
+        "dec": 4.324280723838454, 
+        "ra": 183.6801855364133
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-215-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-215-scaled.png", 
+      "center": {
+        "dec": 4.482682295216705, 
+        "ra": 183.67966563541532
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-216-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-216-scaled.png", 
+      "center": {
+        "dec": 4.641080307715536, 
+        "ra": 183.6791455206883
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-217-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-217-scaled.png", 
+      "center": {
+        "dec": 4.799472340316223, 
+        "ra": 183.67862519210044
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-218-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-218-scaled.png", 
+      "center": {
+        "dec": 4.957855972548392, 
+        "ra": 183.67810464951992
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-219-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-219-scaled.png", 
+      "center": {
+        "dec": 5.116228784711867, 
+        "ra": 183.67758389281482
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-220-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-220-scaled.png", 
+      "center": {
+        "dec": 5.274588358098398, 
+        "ra": 183.67706292185304
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-221-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-221-scaled.png", 
+      "center": {
+        "dec": 5.432932275213105, 
+        "ra": 183.6765417365024
+      }, 
+      "crop": {
+        "xmin": 2734.0800000000004, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 2990.0800000000004
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-222-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-222-scaled.png", 
+      "center": {
+        "dec": 2.898414154819283, 
+        "ra": 183.5263146856437
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-223-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-223-scaled.png", 
+      "center": {
+        "dec": 3.05673382513791, 
+        "ra": 183.52576420068974
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-224-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-224-scaled.png", 
+      "center": {
+        "dec": 3.2150717120568153, 
+        "ra": 183.52521348988634
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-225-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-225-scaled.png", 
+      "center": {
+        "dec": 3.3734253998338533, 
+        "ra": 183.5246625530946
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-226-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-226-scaled.png", 
+      "center": {
+        "dec": 3.531792471279119, 
+        "ra": 183.52411139017545
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-227-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-227-scaled.png", 
+      "center": {
+        "dec": 3.6901705079761102, 
+        "ra": 183.5235600009898
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-228-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-228-scaled.png", 
+      "center": {
+        "dec": 3.8485570905030935, 
+        "ra": 183.52300838539838
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-229-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-229-scaled.png", 
+      "center": {
+        "dec": 4.006949798654782, 
+        "ra": 183.5224565432618
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-230-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-230-scaled.png", 
+      "center": {
+        "dec": 4.165346211664119, 
+        "ra": 183.52190447444056
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-231-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-231-scaled.png", 
+      "center": {
+        "dec": 4.323743908424284, 
+        "ra": 183.5213521787951
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-232-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-232-scaled.png", 
+      "center": {
+        "dec": 4.482140467710651, 
+        "ra": 183.5207996561857
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-233-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-233-scaled.png", 
+      "center": {
+        "dec": 4.640533468402908, 
+        "ra": 183.5202469064725
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-234-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-234-scaled.png", 
+      "center": {
+        "dec": 4.798920489707058, 
+        "ra": 183.5196939295155
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-235-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-235-scaled.png", 
+      "center": {
+        "dec": 4.957299111377304, 
+        "ra": 183.5191407251748
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-236-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-236-scaled.png", 
+      "center": {
+        "dec": 5.115666913938051, 
+        "ra": 183.51858729331005
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-237-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-237-scaled.png", 
+      "center": {
+        "dec": 5.274021478905398, 
+        "ra": 183.51803363378107
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-238-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-238-scaled.png", 
+      "center": {
+        "dec": 5.432360389008601, 
+        "ra": 183.51747974644744
+      }, 
+      "crop": {
+        "xmin": 2961.9200000000005, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 3217.9200000000005
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-239-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-239-scaled.png", 
+      "center": {
+        "dec": 2.897900306431371, 
+        "ra": 183.36778548099494
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-240-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-240-scaled.png", 
+      "center": {
+        "dec": 3.0562137574603563, 
+        "ra": 183.36720250744244
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-241-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-241-scaled.png", 
+      "center": {
+        "dec": 3.2145454229345467, 
+        "ra": 183.3666192947526
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-242-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-242-scaled.png", 
+      "center": {
+        "dec": 3.3728928873909663, 
+        "ra": 183.36603584277833
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-243-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-243-scaled.png", 
+      "center": {
+        "dec": 3.5312537339191907, 
+        "ra": 183.36545215137247
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-244-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-244-scaled.png", 
+      "center": {
+        "dec": 3.6896255443824226, 
+        "ra": 183.36486822038773
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-245-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-245-scaled.png", 
+      "center": {
+        "dec": 3.848005899638823, 
+        "ra": 183.36428404967668
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-246-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-246-scaled.png", 
+      "center": {
+        "dec": 4.00639237976315, 
+        "ra": 183.3636996390918
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-247-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-247-scaled.png", 
+      "center": {
+        "dec": 4.1647825642685365, 
+        "ra": 183.36311498848548
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-248-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-248-scaled.png", 
+      "center": {
+        "dec": 4.323174032328359, 
+        "ra": 183.36253009770988
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-249-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-249-scaled.png", 
+      "center": {
+        "dec": 4.481564362998265, 
+        "ra": 183.3619449666171
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-250-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-250-scaled.png", 
+      "center": {
+        "dec": 4.639951135438157, 
+        "ra": 183.36135959505916
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-251-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-251-scaled.png", 
+      "center": {
+        "dec": 4.798331929134175, 
+        "ra": 183.3607739828879
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-252-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-252-scaled.png", 
+      "center": {
+        "dec": 4.956704324120665, 
+        "ra": 183.36018812995505
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-253-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-253-scaled.png", 
+      "center": {
+        "dec": 5.115065901201854, 
+        "ra": 183.35960203611228
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-254-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-254-scaled.png", 
+      "center": {
+        "dec": 5.273414242173602, 
+        "ra": 183.359015701211
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-255-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-255-scaled.png", 
+      "center": {
+        "dec": 5.431746930044663, 
+        "ra": 183.35842912510265
+      }, 
+      "crop": {
+        "xmin": 3189.7600000000007, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 3445.7600000000007
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-256-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-256-scaled.png", 
+      "center": {
+        "dec": 2.8973643574027426, 
+        "ra": 183.20926986109092
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-257-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-257-scaled.png", 
+      "center": {
+        "dec": 3.055670374832179, 
+        "ra": 183.2086544134384
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-258-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-258-scaled.png", 
+      "center": {
+        "dec": 3.2139946041321985, 
+        "ra": 183.20803871337503
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-259-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-259-scaled.png", 
+      "center": {
+        "dec": 3.372334630174254, 
+        "ra": 183.2074227607456
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-260-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-260-scaled.png", 
+      "center": {
+        "dec": 3.5306880363826836, 
+        "ra": 183.2068065553948
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-261-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-261-scaled.png", 
+      "center": {
+        "dec": 3.689052404955692, 
+        "ra": 183.2061900971672
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-262-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-262-scaled.png", 
+      "center": {
+        "dec": 3.847425317086726, 
+        "ra": 183.2055733859073
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-263-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-263-scaled.png", 
+      "center": {
+        "dec": 4.005804353185988, 
+        "ra": 183.20495642145934
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-264-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-264-scaled.png", 
+      "center": {
+        "dec": 4.164187093102174, 
+        "ra": 183.20433920366762
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-265-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-265-scaled.png", 
+      "center": {
+        "dec": 4.322571116344318, 
+        "ra": 183.20372173237607
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-266-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-266-scaled.png", 
+      "center": {
+        "dec": 4.480954002303743, 
+        "ra": 183.20310400742875
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-267-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-267-scaled.png", 
+      "center": {
+        "dec": 4.63933333047601, 
+        "ra": 183.20248602866943
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-268-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-268-scaled.png", 
+      "center": {
+        "dec": 4.797706680682843, 
+        "ra": 183.20186779594175
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-269-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-269-scaled.png", 
+      "center": {
+        "dec": 4.956071633294025, 
+        "ra": 183.20124930908932
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-270-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-270-scaled.png", 
+      "center": {
+        "dec": 5.114425769449093, 
+        "ra": 183.20063056795553
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-271-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-271-scaled.png", 
+      "center": {
+        "dec": 5.272766671278906, 
+        "ra": 183.20001157238372
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-272-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-272-scaled.png", 
+      "center": {
+        "dec": 5.431091922127018, 
+        "ra": 183.199392322217
+      }, 
+      "crop": {
+        "xmin": 3417.600000000001, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 3673.600000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-273-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-273-scaled.png", 
+      "center": {
+        "dec": 2.8968063261707893, 
+        "ra": 183.05077025045173
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 0, 
+        "ymax": 256, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-274-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-274-scaled.png", 
+      "center": {
+        "dec": 3.055103696203957, 
+        "ra": 183.05012234468558
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 227.84, 
+        "ymax": 483.84000000000003, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-275-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-275-scaled.png", 
+      "center": {
+        "dec": 3.2134192751138864, 
+        "ra": 183.04947417325062
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 455.68, 
+        "ymax": 711.6800000000001, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-276-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-276-scaled.png", 
+      "center": {
+        "dec": 3.3717506481616297, 
+        "ra": 183.04882573598357
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 683.52, 
+        "ymax": 939.5200000000001, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-277-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-277-scaled.png", 
+      "center": {
+        "dec": 3.5300953991615134, 
+        "ra": 183.0481770327211
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 911.36, 
+        "ymax": 1167.3600000000001, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-278-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-278-scaled.png", 
+      "center": {
+        "dec": 3.68845111070206, 
+        "ra": 183.04752806329958
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 1139.2, 
+        "ymax": 1395.2, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-279-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-279-scaled.png", 
+      "center": {
+        "dec": 3.8468153643672998, 
+        "ra": 183.04687882755542
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 1367.04, 
+        "ymax": 1623.04, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-280-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-280-scaled.png", 
+      "center": {
+        "dec": 4.005185740958215, 
+        "ra": 183.0462293253247
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 1594.8799999999999, 
+        "ymax": 1850.8799999999999, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-281-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-281-scaled.png", 
+      "center": {
+        "dec": 4.163559820714473, 
+        "ra": 183.0455795564436
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 1822.7199999999998, 
+        "ymax": 2078.72, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-282-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-282-scaled.png", 
+      "center": {
+        "dec": 4.321935183536138, 
+        "ra": 183.04492952074798
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 2050.56, 
+        "ymax": 2306.56, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-283-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-283-scaled.png", 
+      "center": {
+        "dec": 4.48030940920561, 
+        "ra": 183.04427921807365
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 2278.4, 
+        "ymax": 2534.4, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-284-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-284-scaled.png", 
+      "center": {
+        "dec": 4.638680077609484, 
+        "ra": 183.0436286482563
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 2506.2400000000002, 
+        "ymax": 2762.2400000000002, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-285-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-285-scaled.png", 
+      "center": {
+        "dec": 4.797044768960459, 
+        "ra": 183.04297781113135
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 2734.0800000000004, 
+        "ymax": 2990.0800000000004, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-286-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-286-scaled.png", 
+      "center": {
+        "dec": 4.9554010640190995, 
+        "ra": 183.04232670653428
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 2961.9200000000005, 
+        "ymax": 3217.9200000000005, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-287-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-287-scaled.png", 
+      "center": {
+        "dec": 5.113746544315561, 
+        "ra": 183.04167533430032
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 3189.7600000000007, 
+        "ymax": 3445.7600000000007, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-288-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-288-scaled.png", 
+      "center": {
+        "dec": 5.272078792371041, 
+        "ra": 183.04102369426457
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 3417.600000000001, 
+        "ymax": 3673.600000000001, 
+        "xmax": 3901.440000000001
+      }
+    }, 
+    {
+      "negative_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-289-negative.png", 
+      "scaled_path": "CSS_Data/Catalina_Sky_Survey_Sample/703/2012/12Dec02/azoo/01_12DEC02_N04066_0002-289-scaled.png", 
+      "center": {
+        "dec": 5.4303953919190855, 
+        "ra": 183.040371786262
+      }, 
+      "crop": {
+        "xmin": 3645.440000000001, 
+        "ymin": 3645.440000000001, 
+        "ymax": 3901.440000000001, 
+        "xmax": 3901.440000000001
+      }
+    }
+  ]
+}
